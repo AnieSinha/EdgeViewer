@@ -1,0 +1,11 @@
+{
+  "name": "edgeviewer-web",
+  "version": "1.0.0",
+  "description": "Simple TypeScript-based viewer for processed frames",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
