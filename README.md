@@ -7,7 +7,7 @@
 ### **Processed Output (Android App)**  
 
 ### Emulator Screenshot
-![Emulator Screenshot](web/processed.png)
+![Emulator Screenshot](web/emulator.png)
 
 ## 🎥 Demo Video
 https://github.com/AnieSinha/EdgeViewer/raw/main/web/demo.mov
