@@ -5,6 +5,9 @@
 
 ![Processed Output](web/processed.png)
 ### **Processed Output (Android App)**  
+![Processed Output](web/emulator.png)
+### **Processed Output (Android App)**  
+
 ---
 # 🚀 **EdgeViewer — Android + C++ (JNI) + OpenGL ES + Web Viewer**
 
