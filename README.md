@@ -5,8 +5,12 @@
 
 ![Processed Output](web/processed.png)
 ### **Processed Output (Android App)**  
-![Processed Output](web/emulator.png)
-### **Processed Output (Android App)**  
+
+### Emulator Screenshot
+![Emulator Screenshot](web/processed.png)
+
+## 🎥 Demo Video
+https://github.com/AnieSinha/EdgeViewer/raw/main/web/demo.mov
 
 ---
 # 🚀 **EdgeViewer — Android + C++ (JNI) + OpenGL ES + Web Viewer**
